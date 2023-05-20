@@ -19,7 +19,7 @@
   };
 
   user = {
-    description = "Kennan LeJeune";
+    description = "David James";
     home = "${
       if pkgs.stdenvNoCC.isDarwin
       then "/Users"
